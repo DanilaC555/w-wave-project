@@ -1,6 +1,6 @@
-# Название проекта
+# Name project
 
 ![screenshot site](img/screenshot-site.jpg)
 
-## Описание
+## Description
 Site layout using adaptive layout. inclusivity,(accessibility, cross-browser) the use of BEM methodology.
